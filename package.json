@@ -1,0 +1,22 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator project that performs basic arithmetic operations.",
+  "main": "src/calculator.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0",
+    "ts-jest": "^27.0.0",
+    "typescript": "^4.0.0"
+  },
+  "keywords": [
+    "calculator",
+    "typescript",
+    "jest"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
