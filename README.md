@@ -1,4 +1,4 @@
-# Simple Calculator
+# Simple Calculator - Chnage 1
 
 This project is a simple calculator application implemented in TypeScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
